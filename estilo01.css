@@ -1,0 +1,14 @@
+#italicparagraph {
+    font-style: italic;
+}
+
+#boldparagraph {
+    font-weight: bold;
+}
+
+
+#descricao_imagem {
+    font-family: monospace;
+    font-size: smaller;
+    text-align: left;
+}
